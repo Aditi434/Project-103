@@ -1,0 +1,38 @@
+.heading
+{
+    width: 500px;
+    height: 50px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+body
+{
+    background-color: #8CB0AB;
+}
+.sharukhKhan
+{
+    font-size: 20px;
+    background-color: #A68CB0;
+}
+.taylorSwift
+{
+    font-size: 20px;
+    background-color: #A68CB0;
+}
+.KatrinaKaif
+{
+    font-size: 20px;
+    background-color: #A68CB0;
+}
+.justinBieber
+{
+    font-size: 20px;
+    background-color: #A68CB0;
+}
+#camera
+{
+    border-style: dashed;
+    height: 300px;
+    width: 350px;
+}
